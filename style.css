@@ -255,7 +255,7 @@ p {
 
 .inner_banner {
     height: calc(100vh - 94px);
-    background-image: url("/images/banner.jpg");
+    background-image: url("/images/banner1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
